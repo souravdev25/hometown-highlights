@@ -83,12 +83,6 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - Thanks to the people of Barishal for their warmth and hospitality.
