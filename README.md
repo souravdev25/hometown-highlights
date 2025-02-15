@@ -42,7 +42,7 @@ To run this project locally, you need:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd barishal-hometown
+   cd hometown-highlights
    ```
 
 ### Running the Project
